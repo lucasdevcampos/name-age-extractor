@@ -14,6 +14,14 @@ Python Tool using Pandas, SpaCy, Regex for geting Person names and ages in .txt 
 
 ## 📦 Installation
 
-```bash
-pip install -r requirements.txt
-python -m spacy download en_core_web_sm
+## 📊 Output
+            NAMES AGE
+0       Andromeda  52
+1     Marcus Webb  34
+2       Sara Chen  12
+3  Thomas Richter  47
+4      Maya Patel  29
+5            Maya  41
+6          Thomas  38
+7     Elena Rossi  10
+8    James Okafor  00
