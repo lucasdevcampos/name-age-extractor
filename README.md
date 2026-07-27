@@ -18,10 +18,11 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
 OUTPUT
-          NAMES AGE
-0  Marcus Webb  52
-1   Sara Chen   34
-2  Thomas Richter 47
-3    Maya Patel  29
-4   Elena Rossi  41
-5  James Okafor  38
+                      NAMES AGE
+0       Andromeda  52
+1     Marcus Webb  34
+2       Sara Chen  12
+3  Thomas Richter  47
+4      Maya Patel  29
+5            Maya  41
+6          Thomas  38
