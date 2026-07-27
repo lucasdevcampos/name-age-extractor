@@ -26,3 +26,8 @@ python -m spacy download en_core_web_sm
 4      Maya Patel  29
 5            Maya  41
 6          Thomas  38
+
+## ⚠️ Note
+
+The output may contain false positives (e.g., "Andromeda" recognized as a person). 
+Data cleaning and validation are the analyst's responsibility.
