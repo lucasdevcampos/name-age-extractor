@@ -17,8 +17,8 @@ Python tool that extracts **person names** (using spaCy NER) and **ages** (using
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
-OUTPUT
-                      NAMES AGE
+## 📊 EXAMPLE OUTPUT
+            NAMES AGE
 0       Andromeda  52
 1     Marcus Webb  34
 2       Sara Chen  12
