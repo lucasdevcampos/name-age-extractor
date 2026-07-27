@@ -17,5 +17,3 @@ Python Tool using Pandas, SpaCy, Regex for geting Person names and ages in .txt 
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
-
-<img width="287" height="335" alt="image" src="https://github.com/user-attachments/assets/956baeeb-77a3-4312-b7e8-75cca0f0b820" />
