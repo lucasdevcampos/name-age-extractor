@@ -1,10 +1,9 @@
-# name-age-extractor
-Natural Languague Processing with SpaCy, Pandas, Regex.
+# Name-Age-Extractor
 
-# Age and Person Names Extractor
+Natural Language Processing with spaCy, Pandas & Regex.
 
 ## 📋 Description
-Python Tool using Pandas, SpaCy, Regex for geting Person names and ages in .txt text. Using Natural Languague Processing, DataFrame creating and filtering Pandas to remove duplicates and empty numbers.
+Python tool that extracts **person names** (using spaCy NER) and **ages** (using Regex) from `.txt` files. The output is a clean Pandas DataFrame with duplicates and empty values removed.
 
 ## 🚀 Technologies
 - Python 3.x
@@ -12,14 +11,8 @@ Python Tool using Pandas, SpaCy, Regex for geting Person names and ages in .txt 
 - spaCy (en_core_web_sm)
 - Regex
 
-## 📊 Output
-            NAMES AGE
-0       Andromeda  52
-1     Marcus Webb  34
-2       Sara Chen  12
-3  Thomas Richter  47
-4      Maya Patel  29
-5            Maya  41
-6          Thomas  38
-7     Elena Rossi  10
-8    James Okafor  00
+## 📦 Installation
+
+```bash
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
